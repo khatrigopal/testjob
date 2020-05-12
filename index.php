@@ -7,5 +7,7 @@ print "Hi";
 echo "<br>";
 echo "<br>";
 print "What is your program today";
+echo "</br>";
+echo "</br>";
 print `ifconfig`;
 ?>
