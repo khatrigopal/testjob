@@ -6,5 +6,6 @@ echo "<br>";
 print "Hi";
 echo "<br>";
 echo "<br>";
+print "What is your program today";
 print `ifconfig`;
 ?>
