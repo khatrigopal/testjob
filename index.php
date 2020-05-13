@@ -9,7 +9,7 @@ echo "<br>";
 print "What is your program today";
 echo "</br>";
 echo "</br>";
-print "Today is Wednesday";
+print "Today is Cool Wednesday";
 echo "<br>";
 echo "<br>";
 print `ifconfig`;
