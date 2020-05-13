@@ -9,5 +9,9 @@ echo "<br>";
 print "What is your program today";
 echo "</br>";
 echo "</br>";
+print "Today is Wednesday";
+echo "<br>"
+echo "<br>"
+echo "<br>"
 print `ifconfig`;
 ?>
